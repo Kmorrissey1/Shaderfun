@@ -4,3 +4,7 @@ For my fundamental course in IMGD, I decided to iterate upon my first sketch, wh
 Here is the code I used, borrowing from Dr. Roberts' model example: https://editor.p5js.org/Kmorrissey1/sketches/h35NQ0x18
 
 
+
+
+https://github.com/user-attachments/assets/7b0ef5df-a374-44ea-a3b8-2a94af938f51
+
